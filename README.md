@@ -1,6 +1,6 @@
 # :fire: what-is-path-in-environment-variable-of-windows-and-linux
 
-## :fire::fire:  path is a location of your system from where your software and tools are executed.
+## :fire::fire:  path is a location of our system from where our softwares and tools are executed.
 ###   :fire: Examples: 
       1. C:\sysinternals_tools
       2. C:\Users\User\AppData\Local\Microsoft\WindowsApps
