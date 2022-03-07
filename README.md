@@ -7,6 +7,6 @@
       3. E:\software files\Nmap etc
 ### :fire::fire: when we run a tool then the system finds the tool in the paths .  if the tool present in the path then it runs perfectly. otherwise it shows errors.
 
-### :fire: i have shown a Example in the below screenshot : 
+### :fire: i have shown an Example in the below screenshot : 
 
 ![Screenshot_1](https://user-images.githubusercontent.com/66565192/156969917-085237ad-51e4-4872-b160-f18c2b785a97.png)
