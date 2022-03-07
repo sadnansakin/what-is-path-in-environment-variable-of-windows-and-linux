@@ -1,0 +1,1 @@
+# what-is-path-in-environment-variable-of-windows-and-linux
